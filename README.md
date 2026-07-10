@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask" />
       <img src="https://img.shields.io/badge/SQLite-lightgrey?style=flat-square&logo=sqlite" />
     </td>
-    <td width="50%">
+    <!-- <td width="50%">
       <h4>🛒 Product Recognition & Billing System</h4>
       <p>AI-powered retail billing system using image classification for product recognition.</p>
       <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow" />
@@ -65,7 +65,7 @@
       <img src="https://img.shields.io/badge/Generative%20AI-purple?style=flat-square" />
       <img src="https://img.shields.io/badge/Image%20Classification-green?style=flat-square" />
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td width="50%">
       <h4>🛡️ Network Intrusion Detection</h4>
@@ -74,13 +74,13 @@
       <img src="https://img.shields.io/badge/Streamlit-red?style=flat-square&logo=streamlit" />
       <img src="https://img.shields.io/badge/UNSW--NB15-blue?style=flat-square" />
     </td>
-    <td width="50%">
+    <!-- <td width="50%">
       <h4>📊 Maritime Dashboard</h4>
       <p>Interactive business intelligence dashboard for maritime data analytics.</p>
       <img src="https://img.shields.io/badge/Power%20BI-yellow?style=flat-square&logo=powerbi" />
       <img src="https://img.shields.io/badge/DAX-blue?style=flat-square" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
@@ -122,6 +122,6 @@ align="center">
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2F80ED&style=flat" />
-</p>
+</p> -->
