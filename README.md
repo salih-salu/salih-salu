@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Header Name -->
-  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Mohammed Salih C K</h1>
+  <h1> Mohammed Salih C K</h1>
   
   <!-- Interactive Subtitle -->
   <h3>AI Developer | Data Scientist | Python Developer</h3>
@@ -28,7 +28,7 @@
     <a href="mailto:msalihck01@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views" /> -->
   </p>
 
 </div>
