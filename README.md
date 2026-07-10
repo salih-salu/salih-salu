@@ -1,12 +1,4 @@
-<!--
-  ========================================================================
-  PREMIUM INTERACTIVE GITHUB PROFILE README
-  ========================================================================
-  INSTRUCTIONS:
-  1. Commit 'portfolio_banner.png' (located in this directory) to the root of your profile repository.
-  2. Replace 'YOUR_GITHUB_USERNAME' in all URLs with your actual GitHub username to load live telemetry.
-  ========================================================================
--->
+
 
 <div align="center">
 
@@ -23,11 +15,11 @@
     </a>
   </p>
 
-  <!-- Sleek Custom Portfolio Banner -->
+  <!-- Sleek Custom Portfolio Banner 
   <p align="center">
     <img src="portfolio_banner.png" alt="Mohammed Salih C K - Portfolio Banner" width="100%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);" />
   </p>
-
+-->
   <!-- Header Social Row -->
   <p align="center">
     <a href="https://www.linkedin.com/in/mohammedsalihck/" target="_blank">
@@ -58,10 +50,10 @@
         ⚡ <b>Current Focus:</b> I am actively architecting solutions around <b>Agentic AI</b>, <b>LangChain</b>, and <b>RAG (Retrieval-Augmented Generation)</b>, while building visual intelligence pipelines and data stories.
       </p>
     </td>
-    <td width="40%" valign="center" align="center">
+    <!-- <td width="40%" valign="center" align="center">
       <!-- High Quality Tech Coding Animation -->
       <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="border-radius: 8px;" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -146,7 +138,7 @@
       </p>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2" valign="top">
       <h4>📊 Maritime Logistics Dashboard</h4>
       <p>Interactive analytics command center visualising shipping schedules, vessel efficiency metrics, and port delays.</p>
@@ -155,7 +147,7 @@
         <img src="https://img.shields.io/badge/DAX-6B7280?style=flat-square" alt="DAX" />
       </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
@@ -171,9 +163,8 @@
 
 ---
 
-### 📊 Live Telemetry & Stats
 
-<div align="center">
+<!-- <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
@@ -192,7 +183,7 @@
   <a href="https://github.com/ashutoshgwarid/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="85%" />
   </a>
-</div>
+</div> -->
 
 ---
 
