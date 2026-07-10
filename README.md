@@ -18,11 +18,24 @@
 
 ### 🧠 About Me
 
-- 🔭 I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI**
-- 🐍 I build real-world AI applications using **Python** and modern AI frameworks
-- 🌱 Currently learning **Agentic AI, LLM Applications, LangChain, and RAG**
-- 💬 Ask me about **Computer Vision, NLP, and Generative AI**
-- ⚡ Fun fact: I love turning research papers into working prototypes
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        🤖 <b>AI & Machine Learning:</b> I'm an AI developer who enjoys turning research-grade ideas in Computer Vision, NLP, and Generative AI into working, real-world applications.
+      </p>
+      <p>
+        🐍 <b>Engineering:</b> Python is my core toolkit — I build end-to-end pipelines with TensorFlow, OpenCV, and Flask, connecting model training to deployable, user-facing systems.
+      </p>
+      <p>
+        🔍 <b>Beyond the Code:</b> I'm currently diving into Agentic AI, LangChain, and RAG, and I like exploring data-driven storytelling through Power BI dashboards.
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
